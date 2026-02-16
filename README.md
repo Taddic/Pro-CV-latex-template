@@ -26,7 +26,7 @@ Gray theme
 ```
 
 ## Install
-1. Install latex either manually or by using the supplied [install.sh](install/install.sh) script file.
+1. Install latex either manually or by running `make install` 
 2. The files procv.cls and procv.sty needs to be in the folder with your own CV tex file.
 3. Use the [example.tex](example.tex) as a starting point if you want.
 
